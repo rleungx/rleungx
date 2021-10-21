@@ -1,7 +1,19 @@
-## Hi there, I'm Ryan Leung
+<h2 align="left">👋 Hello! I'm Ryan.</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-rleungx-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rleungx@gmail.com "Connect via Email")
-[![Telegram Badge](https://img.shields.io/badge/-rleungx-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/rleungx "Contact on Telegram")
-[![Linkedin Badge](https://img.shields.io/badge/-rleungx-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rleungx/ "Connect on LinkedIn")
-[![Messenger Badge](https://img.shields.io/badge/-rleungx-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/rleungx "Connect on Facebook")
-[![Twitter Badge](https://img.shields.io/badge/-rleungx-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rleungx "Follow on Twitter")
+<p align="left">
+  <a href="https://twitter.com/rleungx">
+    <img align="left" alt="rleungx's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://t.me/rleungx">
+    <img align="left" alt="rleungx's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+  <a href="https://linkedin.com/in/rleungx">
+    <img align="left" alt="rleungx's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://m.me/rleungx">
+    <img align="left" alt="rleungx's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+  <a href="mailto:rleungx@gmail.com">
+    <img align="left" alt="rleungx's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</p>
